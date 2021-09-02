@@ -79,6 +79,7 @@ a {
     font-size: 25px;
     line-height: 60px;
     transition: all 0.3s ease-out;
+    color: #000000;
 }
 
 .wrapper .button:nth-child(1):hover span {
